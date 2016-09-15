@@ -21,7 +21,7 @@ Partie 2:
 
 Proposer une démarche permettant de calculer la masse moyenne d'une grappe de raisin de cette parcelle de vigne.
 
-Le fichier [Relevés](https://github.com/mathlorgues/MPS/raw/master/Alimentation/Activit%C3%A9%201/Donn%C3%A9es%20et%20calculs.ods) contient les relevés effectués par trois groupes d'élèves qui, à la suite d'une visite de l'exploitation, ont estimé qu'il y anait en moyenne trois fois plus de "grosses" grappes (de masse moyenne 330 g) que de "petites" grappes (de masse moyenne 50 g) et deux fois plus de grappes "moyennes" (de masse moyenne 115 g) que de "petites grappes".
+Le fichier [Relevés](https://github.com/mathlorgues/MPS/raw/master/Alimentation/Activit%C3%A9%201/Donn%C3%A9es%20et%20calculs.ods) contient les relevés effectués par trois groupes d'élèves qui, à la suite d'une visite de l'exploitation, ont estimé qu'il y avait en moyenne trois fois plus de "grosses" grappes (de masse moyenne 330 g) que de "petites" grappes (de masse moyenne 50 g) et deux fois plus de grappes "moyennes" (de masse moyenne 115 g) que de "petites grappes".
 
 Partie 3:
 ---------
