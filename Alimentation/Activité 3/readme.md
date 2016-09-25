@@ -15,9 +15,7 @@ Partie 1:
 =========
 
 1. Proposer une formule la plus simple possible pour calculer le taux d'alcoolémie après absorption d'une masse a d'alcool pour un individu de masse a ayant un coefficient de diffusion de k.
-
 Cette formule permet une très bonne estimation de l'alcoolémie une heure après absorption à jeun. Cependant, sachez que l'alcoolémie est maximale 30 minutes après l'absorption d'alcool.
-
 On donne la masse volumique de l'éthanol: 0.8.
 
 1. Une heure après avoir bu un demi-litre de bière à 5 degrés, quelle est l'alcollémie d'un homme de 75 kg et d'une femme de 60 kg ?
