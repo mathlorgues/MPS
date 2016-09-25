@@ -1,5 +1,5 @@
- Calcul d'alcoolémies et problèmes de mélange.
- ============================================
+Calcul d'alcoolémies et problèmes de mélange.
+============================================
 
 - Le titre alcoométrique volumique ou degré alcoolique d'une boisson alcoolisée est la proportion en volume d'alcool (éthanol) qu'elle contient. L'unité utilisée pour l'exprimer est le degré (noté °), ou encore le pourcentage volumique (noté %vol).
 
