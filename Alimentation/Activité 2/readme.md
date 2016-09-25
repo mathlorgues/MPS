@@ -18,9 +18,9 @@ La somme annuelle est répartie selon les critères suivants:
   - 58 % sont affectées proportionnellement à la superficie exploitée.
 
 Objectif: Calculer l'ensemble des subventions distribuées en 2007 pour chacune
-des trois appélations.
+des trois appellations.
 
 Partie 1:
 =========
 
-Calculer et comparer le rendement de 2007 avec le rendement moyen entre 2003 et 2007 pour chacune de ces trois appélations. Pour cela compléter les trois premières feuilles de la feuille de calcul de l'[observatoire de la viticulture de l'Hérault](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%202/Subventions.ods).
+Calculer et comparer le rendement de 2007 avec le rendement moyen entre 2003 et 2007 pour chacune de ces trois appellations. Pour cela compléter les trois premières feuilles de la feuille de calcul de l'[observatoire de la viticulture de l'Hérault](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%202/Subventions.ods).
