@@ -1,7 +1,7 @@
 Répartition de subventions viticoles.
 ====================================
 
-Pour la période 2007-2013, le département de l'Hérault a consacré une enveloppe totale de 10,5 millions d'euros pour les programmes d'aide à la viticulture. Cette enveloppe, correspondant à une subvention de 1.5 millions d'euros par an, est distribuée aux producteurs
+Pour la période 2007-2013, le département de l'Hérault a consacré une enveloppe totale de 10,5 millions d'euros pour les programmes d'aide à la viticulture. Cette enveloppe, correspondant à une subvention de 1.5 millions d'euros par an, a été distribuée aux producteurs
 
 - de **V**in **D**e **T**able (VDT),
 - de **V**ins **D**e **P**ays (VDP),
@@ -23,7 +23,7 @@ des trois appellations.
 Partie 1:
 =========
 
-Calculer et comparer le rendement de 2007 avec le rendement moyen entre 2003 et 2007 pour chacune de ces trois appellations. Pour cela, compléter les trois premières feuilles de calcul de l'[observatoire de la viticulture de l'Hérault](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%202/Subventions.ods).
+Calculer et comparer le rendement de 2007 avec le rendement moyen entre 2003 et 2007 pour chacune de ces trois appellations. Pour cela, compléter les trois premières feuilles de calcul de l'[observatoire de la viticulture de l'Hérault](https://github.com/mathlorgues/MPS/raw/master/Alimentation/Activit%C3%A9%202/Subventions.ods).
 
 Partie 2:
 =========
@@ -39,7 +39,7 @@ Calculer le montant total des subventions accordées pour l'ensemble des commune
 
 - Tableau 2:
 
-Calculer le partage de sibventions selon le rendement.
+Calculer le partage de subventions selon le rendement.
 
 - Tableau 3:
 
