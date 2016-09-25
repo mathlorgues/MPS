@@ -3,7 +3,7 @@ Calcul d'alcoolémies et problèmes de mélange.
 
 - Le titre alcoométrique volumique ou degré alcoolique d'une boisson alcoolisée est la proportion en volume d'alcool (éthanol) qu'elle contient. L'unité utilisée pour l'exprimer est le degré (noté °), ou encore le pourcentage volumique (noté %vol).
 
-Par exemple, un litre de vin à 10 degrés contient 1000x0.1=1OOmL d'alcool.
+Par exemple, un litre de vin à 10 degrés contient 1000x0.1=100mL d'alcool.
 
 - L'alcoolémie est le taux d'alcool présent dans le sang. Elle s'exprime en grammes par litres. L'alcool diffuse dans toute l'eau de l'organisme. Or chez l'homme, l'eau représente environ 70% de son poids alors que chez la femme, elle représente 60% de son poids.
 
