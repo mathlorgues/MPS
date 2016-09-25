@@ -5,7 +5,7 @@ Pour la période 2007-2013, le département de l'Hérault a consacré une envelo
 
 - de **V**in **D**e **T**able (VDT),
 - de **V**ins **D**e **P**ays (VDP),
-- de **V**ins de **Q**ualité **P**roduits dans des **R**égions **D**éterminés (VQPRD). <!-- *** -->
+- de **V**ins de **Q**ualité **P**roduits dans des **R**égions **D**éterminés (VQPRD). ***
 
 La somme annuelle est répartie selon les critères suivants:
 
