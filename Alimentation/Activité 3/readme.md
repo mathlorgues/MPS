@@ -12,7 +12,7 @@ On appelle **coefficient de diffusion** ce pourcentage, il est donc égal à 0.7
 
 - Si a est le masse d'alcool absorbé, p "le poids" (en fait, la masse) de la personne qui l'a absorbé et k les coefficient de diffusion, alors l'alcoolémie t est proportionnelle à a et inversement proportionnelle à p et à k.
 
-- Le taux d’alcool limite autorisé est de
+- Le taux d’alcool limite autorisé pour la conduite est de
   - 0,5 g d’alcool par litre de sang soit 0,25 mg d’alcool par litre d’air expiré.
   - 0,2 g/l pour tous les permis probatoires (censément dépassé dès le premier verre).
 
