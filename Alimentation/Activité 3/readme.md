@@ -28,12 +28,12 @@ Partie 1:
 
 1. Une heure après avoir bu un verre de whisky (4 cL à 40°) quelles sont les alcoolémies respectives d'un homme et d'une femme de mêmes poids que dans la question précédente ?
 
-  - Entre l'absorption d'alcool à jeun et l'absorption de la même quantité d'alcool au cours d'un repas, l'alcoolémie diminue d'un tiers. Refaire les calculs précédents dans ces nouvelles conditions.
+1. Entre l'absorption d'alcool à jeun et l'absorption de la même quantité d'alcool au cours d'un repas, l'alcoolémie diminue d'un tiers. Refaire les calculs précédents dans ces nouvelles conditions.
 
-  - Le corps humain élimine 0.15g/L par heure ce qui, en théorie et si les phénomènes d'absorption et d'élimination sont linéaires, permet de calculer à chaque instant le taux d'alcoolémie. Café salé, cuillerée d’huile... : aucun "truc" ne permet d’éliminer l’alcool plus rapidement.
+1. Le corps humain élimine 0.15g/L par heure ce qui, en théorie et si les phénomènes d'absorption et d'élimination sont linéaires, permet de calculer à chaque instant le taux d'alcoolémie. Café salé, cuillerée d’huile... : aucun "truc" ne permet d’éliminer l’alcool plus rapidement.
 
   Etudier la situation suivante:
-  Absorption d'un verre de whisky en apéritif, puis d'une demi-bouteillle de vin au cours d'un repas qui a lieu une heure après. 
+  Absorption d'un verre de whisky en apéritif, puis d'une demi-bouteillle de vin au cours d'un repas qui a lieu une heure après.
 
 Partie 2: Problèmes de mélanges.
 ===============================
