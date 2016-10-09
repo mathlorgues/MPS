@@ -44,8 +44,8 @@ Bacchus vient de remplir son verre à ras bord d'un vin. Il en boit une gorgée 
 
 1. Un viticulteur possède plusieurs barriques contenant 228L de vin. L'une de ces barriques étant à l'abri des regards, un employé peu délicat y prélève chaque jour un litre qu'il remplace subrepticement par de l'eau...
 
-  - À partir de quel jour la quantité d'eau contenue dans la barrique s'élèvera-t-elle au tiers de la quantité de vin ?
+  - À partir de quel jour la quantité d'eau contenue dans la barrique dépassera-t-elle le tiers de la quantité de vin ?
 
-  - À partir de quel jour, le tonneau contiendra-t-il autant d'eau que de vin ?
+  - À partir de quel jour, le tonneau contiendra-t-il plus d'eau que de vin ?
 
 1. Un tonneau de vin est rempli à ras bord. Tous les soirs, on enlève 2 litres du contenu que l'on remplace par 2 litres d'eau. Au matin du 18ème jour, il y a quasiement moitié vin moitié eau. Quelle est la contenance de ce tonneau, sachant que c'est un nombre entier de litres ?  
