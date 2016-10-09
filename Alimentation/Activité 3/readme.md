@@ -1,13 +1,5 @@
 Calcul d'alcoolémies et problèmes de mélange.
 ============================================
-Le taux d'alcool maximal est atteint:
-
-    - 1/2 heure après absorption à jeun
-    - 1 heure après absorption au cours d’un repas.
-
-L’alcoolémie baisse en moyenne de 0,10 g à 0,15 g d’alcool par litre de sang en 1 heure. Café salé, cuillerée d’huile... : aucun "truc" ne permet d’éliminer l’alcool plus rapidement.
-
-À noter : certains médicaments peuvent être incompatibles avec la consommation d’alcool.
 
 - Le titre alcoométrique volumique ou **degré alcoolique** d'une boisson alcoolisée est la proportion en volume d'alcool (éthanol) qu'elle contient. L'unité utilisée pour l'exprimer est le degré (noté °), ou encore le pourcentage volumique (noté %vol).
 
@@ -25,7 +17,10 @@ Partie 1:
 
 1. Proposer une formule la plus simple possible pour calculer le taux d'alcoolémie après absorption d'une masse a d'alcool pour un individu de masse a ayant un coefficient de diffusion de k.
 
-Cette formule permet de calculer l'alcoolémie une heure après absorption à jeun. Cependant, sachez que l'alcoolémie est maximale 30 minutes après l'absorption d'alcool.
+Cette formule permet de calculer l'alcoolémie une heure après absorption à jeun. Cependant, sachez que l'alcoolémie est maximale:
+ - 1/2 heure après absorption à jeun
+- 1 heure après absorption au cours d’un repas.
+
 On donne la masse volumique de l'éthanol: 0.8.
 
 1. Une heure après avoir bu un demi-litre de bière à 5 degrés, quelle est l'alcollémie d'un homme de 75 kg et d'une femme de 55 kg ?
@@ -37,7 +32,7 @@ On donne la masse volumique de l'éthanol: 0.8.
   - Etudier la situation suivante:
   Absorption d'un verre de whisky en apéritif, puis d'une demi-bouteillle de vin au cours d'un repas qui a lieu une heure après.
 
-  - Le corps humain élimine 0.15g/L par heure ce qui, en théorie et si les phénomènes d'absorption et d'élimination sont linéaires, permet de calculer à chaque instant le taux d'alcoolémie.
+  - Le corps humain élimine 0.15g/L par heure ce qui, en théorie et si les phénomènes d'absorption et d'élimination sont linéaires, permet de calculer à chaque instant le taux d'alcoolémie. Café salé, cuillerée d’huile... : aucun "truc" ne permet d’éliminer l’alcool plus rapidement.
 
 Partie 2: Problèmes de mélanges.
 ===============================
