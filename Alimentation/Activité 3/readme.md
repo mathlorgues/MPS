@@ -1,12 +1,21 @@
 Calcul d'alcoolémies et problèmes de mélange.
 ============================================
+Le taux d'alcool maximal est atteint:
+
+    - 1/2 heure après absorption à jeun
+    - 1 heure après absorption au cours d’un repas.
+
+L’alcoolémie baisse en moyenne de 0,10 g à 0,15 g d’alcool par litre de sang en 1 heure. Café salé, cuillerée d’huile... : aucun "truc" ne permet d’éliminer l’alcool plus rapidement.
+
+À noter : certains médicaments peuvent être incompatibles avec la consommation d’alcool.
 
 - Le titre alcoométrique volumique ou **degré alcoolique** d'une boisson alcoolisée est la proportion en volume d'alcool (éthanol) qu'elle contient. L'unité utilisée pour l'exprimer est le degré (noté °), ou encore le pourcentage volumique (noté %vol).
 
 Par exemple, un litre de vin à 10 degrés contient 1000x0.1=100mL d'alcool.
 
-- L'**alcoolémie** est le taux d'alcool présent dans le sang. Elle s'exprime en grammes par litre. L'alcool diffuse dans toute l'eau de l'organisme. Or chez l'homme, l'eau représente environ 70% de son poids alors que chez la femme, elle représente environ 60% de son poids.
+- L'**alcoolémie** est le taux d'alcool présent dans le sang. Elle s'exprime en grammes par litre de sang (analyse de sang) ou en milligrammes par litres d'air expiré (éthylotest, éthylomètre).
 
+L'alcool diffuse dans toute l'eau de l'organisme. Or chez l'homme, l'eau représente environ 70% de son poids alors que chez la femme, elle représente environ 60% de son poids.
 On appelle **coefficient de diffusion** ce pourcentage, il est donc égal à 0.7 pour l'homme et 0.6 pour la femme.
 
 - Si a est le masse d'alcool absorbé, p "le poids" (en fait, la masse) de la personne qui l'a absorbé et k les coefficient de diffusion, alors l'alcoolémie t est proportionnelle à a et inversement proportionnelle à p et à k.
