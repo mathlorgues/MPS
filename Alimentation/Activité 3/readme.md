@@ -37,7 +37,6 @@ Partie 2: Problèmes de mélanges.
 ===============================
 
 1. Bacchus et Ariane:
-
 Bacchus vient de remplir son verre à ras bord d'un vin. Il en boit une gorgée que son épouse Ariane évalue à 1/6 de son verre. À son insu, elle complète le verre de Bacchus avec de l'eau et mélange le tout soigneusement. Bacchus, qui ne s'est rendu compte de rien, boit ensuite ce qu'Ariane évalue à 2/3 de ce mélange qu'elle complète une nouvelle fois avec de l'eau. Suite à cela, Bacchus boit le tout d'un trait...
 A-t-il bu plus d'eau que de vin ?
 
