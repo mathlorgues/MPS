@@ -5,7 +5,7 @@ Calcul d'alcoolémies et problèmes de mélange.
 
 Par exemple, un litre de vin à 10 degrés contient 1000x0.1=100mL d'alcool.
 
-- L'alcoolémie est le taux d'alcool présent dans le sang. Elle s'exprime en grammes par litres. L'alcool diffuse dans toute l'eau de l'organisme. Or chez l'homme, l'eau représente environ 70% de son poids alors que chez la femme, elle représente 60% de son poids.
+- L'alcoolémie est le taux d'alcool présent dans le sang. Elle s'exprime en grammes par litre. L'alcool diffuse dans toute l'eau de l'organisme. Or chez l'homme, l'eau représente environ 70% de son poids alors que chez la femme, elle représente environ 60% de son poids.
 
 On appelle **coefficient de diffusion** ce pourcentage, il est donc égal à 0.7 pour l'homme et 0.6 pour la femme.
 
@@ -15,9 +15,34 @@ Partie 1:
 =========
 
 1. Proposer une formule la plus simple possible pour calculer le taux d'alcoolémie après absorption d'une masse a d'alcool pour un individu de masse a ayant un coefficient de diffusion de k.
+
 Cette formule permet de calculer l'alcoolémie une heure après absorption à jeun. Cependant, sachez que l'alcoolémie est maximale 30 minutes après l'absorption d'alcool.
 On donne la masse volumique de l'éthanol: 0.8.
 
-1. Une heure après avoir bu un demi-litre de bière à 5 degrés, quelle est l'alcollémie d'un homme de 75 kg et d'une femme de 60 kg ?
+1. Une heure après avoir bu un demi-litre de bière à 5 degrés, quelle est l'alcollémie d'un homme de 75 kg et d'une femme de 55 kg ?
 
 1. Une heure après avoir bu un verre de whisky (4 cL à 40°) quelles sont les alcoolémies respectives d'un homme et d'une femme de mêmes poids que dans la question précédente ?
+
+  - Entre l'absorption d'alcool à jeun et l'absorption de la même quantité d'alcool au cours d'un repas, l'alcoolémie diminue d'un tiers. Refaire les calculs précédents dans ces nouvelles conditions.
+
+  - Etudier la situation suivante:
+  Absorption d'un verre de whisky en apéritif, puis d'une demi-bouteillle de vin au cours d'un repas qui a lieu une heure après.
+
+  - Le corps humain élimine 0.15g/L par heure ce qui, en théorie et si les phénomènes d'absorption et d'élimination sont linéaires, permet de calculer à chaque instant le taux d'alcoolémie.
+
+Partie 2: Problèmes de mélanges.
+===============================
+
+1. Bacchus et Ariane:
+
+Bacchus vient de remplir son verre à ras bord d'un vin. Il en boit une gorgée que son épouse Ariane évalue à 1/6 de son verre. À son insu, elle complète le verre de Bacchus avec de l'eau et mélange le tout soigneusement. Bacchus, qui ne s'est rendu compte de rien, boit ensuite ce qu'Ariane évalue à 2/3 de ce mélange qu'elle complète une nouvelle fois avec de l'eau. Suite à cela, Bacchus boit le tout d'un trait...
+
+A-t-il bu plus d'eau que de vin ?
+
+1. Un viticulteur possède plusieurs barriques contenant 228L de vin. L'une de ces barriques étant à l'abri des regards, un employé peu délicat y prélève chaque jour un litre qu'il remplace subrepticement par de l'eau...
+
+  - À partir de quel jour la quantité d'eau contenue dans la barrique s'élèvera-t-elle au tiers de la quantité de vin ?
+
+  - À partir de quel jour, le tonneau contiendra-t-il autant d'eau que de vin ?
+
+1. Un tonneau de vin est rempli à ras bord. Tous les soirs, on enlève 2 litres du contenu que l'on remplace par 2 litres d'eau. Au matin du 18ème jour, il y a quasiement moitié vin moitié eau. Quelle est la contenance de ce tonneau, sachant que c'est un nombre entier de litres ?  
