@@ -16,8 +16,7 @@ Partie 1:
 =========
 
 1. Proposer une formule la plus simple possible pour calculer le taux d'alcoolémie après absorption d'une masse a d'alcool pour un individu de masse a ayant un coefficient de diffusion de k.
-
-Cette formule permet de calculer l'alcoolémie une heure après absorption à jeun. Cependant, sachez que l'alcoolémie est maximale:
+  Cette formule permet de calculer l'alcoolémie une heure après absorption à jeun. Cependant, sachez que l'alcoolémie est maximale:
   - 1/2 heure après absorption à jeun
   - 1 heure après absorption au cours d’un repas.
 On donne la masse volumique de l'éthanol: 0.8.
@@ -38,7 +37,7 @@ Partie 2: Problèmes de mélanges.
 
 1. Bacchus et Ariane:
 Bacchus vient de remplir son verre à ras bord d'un vin. Il en boit une gorgée que son épouse Ariane évalue à 1/6 de son verre. À son insu, elle complète le verre de Bacchus avec de l'eau et mélange le tout soigneusement. Bacchus, qui ne s'est rendu compte de rien, boit ensuite ce qu'Ariane évalue à 2/3 de ce mélange qu'elle complète une nouvelle fois avec de l'eau. Suite à cela, Bacchus boit le tout d'un trait...
-A-t-il bu plus d'eau que de vin ?
+  A-t-il bu plus d'eau que de vin ?
 
 1. Un viticulteur possède plusieurs barriques contenant 228L de vin. L'une de ces barriques étant à l'abri des regards, un employé peu délicat y prélève chaque jour un litre qu'il remplace subrepticement par de l'eau...
 
