@@ -14,7 +14,7 @@ On appelle **coefficient de diffusion** ce pourcentage, il est donc égal à 0.7
 
 - Le taux d’alcool limite autorisé pour la conduite est de
   - 0,5 g d’alcool par litre de sang soit 0,25 mg d’alcool par litre d’air expiré.
-  - 0,2 g/l pour tous les permis probatoires (censément dépassé dès le premier verre).
+  - 0,2 g/L pour tous les permis probatoires (censément dépassé dès le premier verre).
 
 Partie 1:
 =========
@@ -30,10 +30,10 @@ Partie 1:
 
   - Entre l'absorption d'alcool à jeun et l'absorption de la même quantité d'alcool au cours d'un repas, l'alcoolémie diminue d'un tiers. Refaire les calculs précédents dans ces nouvelles conditions.
 
-  - Etudier la situation suivante:
-  Absorption d'un verre de whisky en apéritif, puis d'une demi-bouteillle de vin au cours d'un repas qui a lieu une heure après.
-
   - Le corps humain élimine 0.15g/L par heure ce qui, en théorie et si les phénomènes d'absorption et d'élimination sont linéaires, permet de calculer à chaque instant le taux d'alcoolémie. Café salé, cuillerée d’huile... : aucun "truc" ne permet d’éliminer l’alcool plus rapidement.
+
+  Etudier la situation suivante:
+  Absorption d'un verre de whisky en apéritif, puis d'une demi-bouteillle de vin au cours d'un repas qui a lieu une heure après. 
 
 Partie 2: Problèmes de mélanges.
 ===============================
