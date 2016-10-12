@@ -48,4 +48,4 @@ Bacchus vient de remplir son verre à ras bord d'un vin. Il en boit une gorgée 
 
   - À partir de quel jour, le tonneau contiendra-t-il plus d'eau que de vin ?
 
-1. Un tonneau de vin est rempli à ras bord. Tous les soirs, on enlève 2 litres du contenu que l'on remplace par 2 litres d'eau. Au matin du 18ème jour, il y a quasiement moitié vin moitié eau. Quelle est la contenance de ce tonneau, sachant que c'est un nombre entier de litres ?  
+1. Un tonneau de vin est rempli à ras bord. Tous les soirs, on enlève 2 litres du contenu que l'on remplace par 2 litres d'eau. Au matin du 18ème jour, il y a quasiment moitié vin moitié eau. Quelle est la contenance de ce tonneau, sachant que c'est un nombre entier de litres ?  
