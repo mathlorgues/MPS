@@ -13,7 +13,7 @@ Un **cylindre** est le solide délimité par cette surface et par deux plans par
 
 
 
-<img src=https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Generic-cylinder.png alt="Drawing" width= 300px;"/>
+<img src=https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Images/Generic-cylinder.png alt="Drawing" width= 300px;"/>
 
 Le **volume d'un cylindre** vaut le produit **V = S × h** où S désigne l'aire d'une des deux bases (elles ont même aire) et h la hauteur du cylindre
 
@@ -26,7 +26,7 @@ Une droite (d) (appelée génératrice) assujettie à passer toujours par un mê
 
 Un **cône** est le solide délimité par cette surface et un plan (P) ne contenant pas le sommet S et sécant à toutes les génératrices. La distance entre le sommet et le plan est appelée hauteur du cône et la section du cône par le plan est appelée base du cône.
 
-![](https://raw.githubusercontent.com/mathlorgues/MPS/master/Alimentation/Activit%C3%A9%204/Cones_geometrie.png)
+![](https://raw.githubusercontent.com/mathlorgues/MPS/master/Alimentation/Activit%C3%A9%204/Images/Cones_geometrie.png)
 
 Le **volume d'un cône** vaut le produit **V =1/3 S × h** où S désigne l'aire de la base et h la hauteur du cône.
 
@@ -37,7 +37,7 @@ Partie 1: Le pot cylindrique.
 
 On considère le pot cylindrique, de volume 125 cm3, constitué d'un fond, d'une surface latérale et sans couvercle:
 
-![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Cylindre.png)
+![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Images/Cylindre.png)
 
 1. Exprimer l'aire B du disque formant le fond en fonction de la longueur r (en cm).
 
@@ -66,8 +66,8 @@ Partie 2: Le pot conique à base carrée.
 
 À partir d'un carré de côté 5 cm. On construit un tronc de cône de volume 125 cm3, constitué d'un fond, de quatre surfaces latérales identiques:
 
-![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/ConeBasecarr%C3%A9e.png)
-![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/ConeEntier.png)
+![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Images/ConeBasecarr%C3%A9e.png)
+![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Images/ConeEntier.png)
 
 1. Exprimer l'aire B du carré formant le fond en fonction de la longueur r (en cm).
 
