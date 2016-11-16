@@ -13,7 +13,9 @@ Une droite (d) (appelée génératrice) de direction constante se déplaçant le
 
 Un **cylindre** est le solide délimité par cette surface et par deux plans parallèles. La distance entre les deux plans et la hauteur du cylindre et chaque section du cylindre par les deux plans est appelée une base.
 
-![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Generic-cylinder.png=250x)
+![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Generic-cylinder.png)
+
+<img src=https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Generic-cylinder.png alt="Drawing" style="width: 200px;"/>
 
 Le **volume d'un cylindre** vaut le produit **V = S × h** où S désigne l'aire d'une des deux bases (elles ont même aire) et h la hauteur du cylindre
 
