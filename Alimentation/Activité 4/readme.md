@@ -103,4 +103,6 @@ Partie 3: Cas limite pour le pot conique.
 Partie 4: Patrons.
 ==================
 
-Réaliser Des patrons de chacun des pots en prenant pour r la valeur au centimètre près minimisant T.
+1. Réaliser des patrons pour chacun des 3 pots considérés en prenant pour r la valeur au centimètre près minimisant T.
+
+2. Construire les solides correspondant.
