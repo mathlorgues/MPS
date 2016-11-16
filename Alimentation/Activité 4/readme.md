@@ -55,7 +55,7 @@ On considère le pot cylindrique, de volume 125 cm3, constitué d'un fond, d'une
 
 1. Pour quelles valeurs de r, au centimètre près, cette aire est-elle minimale ?
 
-1. Pour quelles valeurs de r, au milimètre près, cette aire est -elle minimale ?
+1. Pour quelles valeurs de r, au milimètre près, cette aire est-elle minimale ?
 
 1. Donner alors un majorant au cm3 près de l'aire minimale obtenue pour T.
 
@@ -92,9 +92,15 @@ Partie 2: Le pot conique à base carrée.
 1. Donner alors un minorant au cm3 près de l'aire minimale obtenue pour T.
 
 Partie 3: Cas limite pour le pot conique.
+=========================================
 
 1. Dans le cas limite où r=5cm, quelle forme prend le pot conique ?
 
 1. Que vaut alors sa hauteur ?
 
 1. Que vaut l'aire totale de la surface extérieure du pot obtenu ?
+
+Partie 4: Patrons.
+==================
+
+Réaliser Des patrons de chacun des pots en prenant pour r la valeur au centimètre près minimisant T.
