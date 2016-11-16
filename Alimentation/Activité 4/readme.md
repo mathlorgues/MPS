@@ -6,17 +6,21 @@ On souhaite conditionner les yaourts dans des pots dont le volume est de 125 cm3
 
 Définitions:
 
+Cylindre:
+--------
+
 Une droite (d) (appelée génératrice) de direction constante se déplaçant le long d'une courbe fermée (c), décrit une surface appelée *surface cylindrique* de courbe directrice (c) et de génératrice (d).
 
 Un **cylindre** est le solide délimité par cette surface et par deux plans parallèles. La distance entre les deux plans et la hauteur du cylindre et chaque section du cylindre par les deux plans est appelée une base.
 
-![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Generic-cylinder.png =250x)
+![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Generic-cylinder.png=250x)
 
 Le **volume d'un cylindre** vaut le produit **V = S × h** où S désigne l'aire d'une des deux bases (elles ont même aire) et h la hauteur du cylindre
 
 Lorsque le plan est perpendiculaire à la droite génératrice (d), le cylindre est appelé cylindre droit. Lorsque la section est circulaire, le cylindre est dit circulaire. Un cylindre droit et circulaire est appelé un *cylindre de révolution*. C'est le cylindre le plus généralement connu (boîte de conserve, rouleau de papier). Lorsque la courbe fermée est un polygone, on obtient un prisme.
 
-*Cône*:
+Cône:
+-----
 
 Une droite (d) (appelée génératrice) assujettie à passer toujours par un même point fixe S et obligée en outre de toucher toujours dans son mouvement une courbe fernée (c) décrit une surface appelée *surface conique* de courbe directrice (c) et de sommet S.
 
