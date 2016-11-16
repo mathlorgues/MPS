@@ -39,3 +39,25 @@ Partie 2: Le pot conique à base carrée.
 À partir d'un carré de côté 5 cm. On construit un tronc de cône de volume 125 cm3, constitué d'un fond, de quatre surfaces latérales identiques:
 
 ![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/ConeBasecarr%C3%A9e.png)
+
+!(https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/ConeEntier.png)
+
+1. Exprimer l'aire C du carrée formant le fond en fonction de la longueur r (en cm).
+
+1. Exprimer l'aire L d'une des quatre surfaces latérales en fonction des longueurs r et h (en cm).
+
+1. Exprimer le volume de ce pot en fonction des longueurs r et h.
+
+1. Comme le volume du pot est de 125 cm3, en déduire une formule pour h en fonction de r.
+
+1. En déduire une formule pour l'aire L en fonction de r uniquement.
+
+1. Donner une expression pour l'aire totale T de la surface exterieure du pot cylindrique en fonction de r.
+
+1. En utilsant un tableur, calculer l'aire de T(r) pour r allant de 1 à 10.
+
+1. Pour quelles valeurs de r, au centimètre près, cette aire est-elle minimale ?
+
+1. Pour quelles valeurs de r, au milimètre près, cette aire est -elle minimale ?
+
+1. Donner alors un majorant au cm3 près de l'aire minimale obtenue pour T.
