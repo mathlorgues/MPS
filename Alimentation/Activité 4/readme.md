@@ -6,21 +6,13 @@ On souhaite conditionner les yaourts dans des pots dont le volume est de 125 cm3
 
 Définitions:
 
-Une droite (d) (appelée génératrice)  de direction constante se déplaçant le long d'une courbe fermée (c), décrit une surface appelée *surface cylindrique* de courbe directrice (c) et de génératrice (d).
+Une droite (d) (appelée génératrice) de direction constante se déplaçant le long d'une courbe fermée (c), décrit une surface appelée *surface cylindrique* de courbe directrice (c) et de génératrice (d).
 
-Un *cylindre* est le solide délimité par cette surface et par deux plans parallèles.
+Un *cylindre* est le solide délimité par cette surface et par deux plans parallèles. La distance entre les deux plans et la hauteur du cylindre et chaque section du cylindre par les deux plans est appelée une base.
 
-Chaque section du cylindre par les deux plans est appelée une base.
+Le **volume d'un cylindre** vaut le produit **V = S × h** où S désigne l'aire d'une des deux bases (elles ont même aire) et h la hauteur du cylindre
 
-Lorsque le plan est perpendiculaire à la droite génératrice (d), le cylindre est appelé cylindre droit.
-
-Lorsque la section est circulaire, le cylindre est dit circulaire.
-
-Un cylindre droit et circulaire est appelé un *cylindre de révolution*. C'est le cylindre le plus généralement connu (boîte de conserve, rouleau de papier).
-
-Lorsque la courbe fermée est un polygone, on obtient un prisme.
-
-Le **volume d'un cylindre** vaut le produit **V = S × h** où S désigne l'aire d'une des deux bases (elles ont même aire) et h la hauteur du cylindre, c'est-à-dire la distance entre les deux plans parallèles qui le délimitent.
+Lorsque le plan est perpendiculaire à la droite génératrice (d), le cylindre est appelé cylindre droit. Lorsque la section est circulaire, le cylindre est dit circulaire. Un cylindre droit et circulaire est appelé un *cylindre de révolution*. C'est le cylindre le plus généralement connu (boîte de conserve, rouleau de papier). Lorsque la courbe fermée est un polygone, on obtient un prisme.
 
 *Cône*:
 
