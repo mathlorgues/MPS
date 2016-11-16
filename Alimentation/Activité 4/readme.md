@@ -4,6 +4,34 @@ Forme optimale pour le conditionnement du yaourt en pot.
 On souhaite conditionner les yaourts dans des pots dont le volume est de 125 cm3. Pour des raisons économiques, on souhaite minimiser la quantité de matériau utilisée pour
  la fabrication d’un pot. En considérant que l’épaisseur du pot est constante, on ramène le problème à l’étude de l’aire extérieure du contenant.
 
+Définitions:
+
+Une droite (d) (appelée génératrice)  de direction constante se déplaçant le long d'une courbe fermée (c), décrit une surface appelée *surface cylindrique* de courbe directrice (c) et de génératrice (d).
+
+Un *cylindre* est le solide délimité par cette surface et par deux plans parallèles.
+
+Chaque section du cylindre par les deux plans est appelée une base.
+
+Lorsque le plan est perpendiculaire à la droite génératrice (d), le cylindre est appelé cylindre droit.
+
+Lorsque la section est circulaire, le cylindre est dit circulaire.
+
+Un cylindre droit et circulaire est appelé un *cylindre de révolution*. C'est le cylindre le plus généralement connu (boîte de conserve, rouleau de papier).
+
+Lorsque la courbe fermée est un polygone, on obtient un prisme.
+
+Le **volume d'un cylindre** vaut le produit **V = S × h** où S désigne l'aire d'une des deux bases (elles ont même aire) et h la hauteur du cylindre, c'est-à-dire la distance entre les deux plans parallèles qui le délimitent.
+
+*Cône*:
+
+Une droite (d) (appelée génératrice) assujettie à passer toujours par un même point fixe S et obligée en outre de toucher toujours dans son mouvement une courbe fernée (c) décrit une surface appelée *surface conique* de courbe directrice (c) et de sommet S.
+
+Un cône est le solide délimité par cette surface et un plan (P) ne contenant pas le sommet S et sécant à toutes les génératrices.
+
+La section du plan et de la surface s'appelle la base du cône.
+
+Un cône  Quand cette courbe est un cercle, on dit que le cône est circulaire : c’est sa forme la plus commune dans les usages pratiques.
+
 Partie 1: Le pot cylindrique.
 ============================
 
