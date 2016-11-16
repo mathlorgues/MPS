@@ -105,4 +105,4 @@ Partie 4: Patrons.
 
 1. Réaliser des patrons pour chacun des 3 pots considérés en prenant pour r la valeur au centimètre près minimisant T.
 
-2. Construire les solides correspondant.
+2. Construire les solides correspondants.
