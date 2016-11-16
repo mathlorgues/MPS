@@ -11,7 +11,7 @@ On considère le pot cylindrique, de volume 125 cm3, constitué d'un fond, d'une
 
 ![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Cylindre.png)
 
-1. Exprimer l'aire D du disque formant le fond en fonction de la longueur r.
+1. Exprimer l'aire D du disque formant le fond en fonction de la longueur r (en cm).
 
 1. Exprimer l'aire L de la surface latérale en fonction des longueurs r et h (en cm).
 
@@ -29,9 +29,11 @@ On considère le pot cylindrique, de volume 125 cm3, constitué d'un fond, d'une
 
 1. Pour quelles valeurs de r, au milimètre près, cette aire est -elle minimale ?
 
-1. Donner alors un majorant au cm3 près de T.
+1. Donner alors un majorant au cm3 près de l'aire minimale obtenue pour T.
 
 
 
-Partie 2: Problèmes de mélanges.
-===============================
+Partie 2: Le pot conique à base carrée.
+=======================================
+
+À partir d'un carré de côté 5 cm. On construit un tronc de cône de hauteur h. On note r la longueur du côté de la base. 
