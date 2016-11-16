@@ -39,8 +39,7 @@ Partie 2: Le pot conique à base carrée.
 À partir d'un carré de côté 5 cm. On construit un tronc de cône de volume 125 cm3, constitué d'un fond, de quatre surfaces latérales identiques:
 
 ![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/ConeBasecarr%C3%A9e.png)
-
-!(https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/ConeEntier.png)
+![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/ConeEntier.png)
 
 1. Exprimer l'aire C du carrée formant le fond en fonction de la longueur r (en cm).
 
