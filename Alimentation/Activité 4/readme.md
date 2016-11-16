@@ -96,7 +96,7 @@ Partie 3: Cas limite pour le pot conique.
 
 1. Dans le cas limite où r=5cm, quelle forme prend le pot conique ?
 
-1. Que vaut alors sa hauteur ?
+1. Que vaut alors la hauteur H et la hauteur h du pot ?
 
 1. Que vaut l'aire totale de la surface extérieure du pot obtenu ?
 
