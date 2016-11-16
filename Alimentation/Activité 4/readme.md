@@ -7,7 +7,7 @@ On souhaite conditionner les yaourts dans des pots dont le volume est de 125 cm3
 Partie 1: Le pot cylindrique.
 ============================
 
-On considère le pot cylindrique, de volume 125 cm3, constitué d'un fond, d'une surface latérale et sans couvercle.
+On considère le pot cylindrique, de volume 125 cm3, constitué d'un fond, d'une surface latérale et sans couvercle:
 
 ![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Cylindre.png)
 
@@ -36,4 +36,6 @@ On considère le pot cylindrique, de volume 125 cm3, constitué d'un fond, d'une
 Partie 2: Le pot conique à base carrée.
 =======================================
 
-À partir d'un carré de côté 5 cm. On construit un tronc de cône de hauteur h. On note r la longueur du côté de la base. 
+À partir d'un carré de côté 5 cm. On construit un tronc de cône de volume 125 cm3, constitué d'un fond, de quatre surfaces latérales identiques:
+
+![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/ConeBasecarr%C3%A9e.png)
