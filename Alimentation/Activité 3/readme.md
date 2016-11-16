@@ -30,7 +30,7 @@ Partie 1:
 
 1. Entre l'absorption d'alcool à jeun et l'absorption de la même quantité d'alcool au cours d'un repas, l'alcoolémie diminue d'un tiers. Refaire les calculs précédents dans ces nouvelles conditions.
 
-1. Le corps humain élimine 0.15g/L par heure ce qui, en théorie et si les phénomènes d'absorption et d'élimination sont linéaires, permet de calculer à chaque instant le taux d'alcoolémie. Café salé, cuillerée d’huile... : aucun "truc" ne permet d’éliminer l’alcool plus rapidement.
+1. Le corps humain élimine 0.15g/L par heure ce qui, en théorie et si les phénomènes d'absorption et d'élimination sont linéaires, permet de calculer à chaque instant l'alcoolémie. Café salé, cuillerée d’huile... : aucun "truc" ne permet d’éliminer l’alcool plus rapidement.
 
   Etudier la situation suivante:
   Absorption d'un verre de whisky en apéritif, puis d'une demi-bouteillle de vin au cours d'un repas qui a lieu une heure après.
