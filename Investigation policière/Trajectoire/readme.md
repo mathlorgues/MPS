@@ -48,15 +48,13 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 1. On suppose que le point d'impact sur le mur correspond au point D(7.75,1.956) où l'on a retrouvé une marque. Placer ce point.
 
 1. La caméra 2 révèle les données suivantes:
-
 |t(s)|24.16|24.2|24.24|24.28|24.32|24.36|24.4|24.44|24.48|
 |---|---|---|---|---|---|---|---|---|---|
 |x(m)|0.3|1.1|1.9|2.7|3.5|4.3|5.1|5.9|6.7|
 |h(m)|3.856|4.184|4.384|4.456|4.4|4.216|3.904|3.464|2.896|
-
 Rentrer les couples (x,h) dans le tableur de geogebra. Sélectionner la plage de valeurs et demander à géogebra de produire la liste de points correspondante.
 
-7. Combien la caméra prend-t-elle d'images par seconde ?
+1. Combien la caméra prend-t-elle d'images par seconde ?
 
 1. La trajectoire réalisée par le caillou est une parabole, c'est à dire le graphe d'une fonction de la forme ax^2+bx+c. Réaliser un tel graphe sur géogebra. Valider la proposition de créer trois curseurs pour les trois paramètres a,b,c.
 
