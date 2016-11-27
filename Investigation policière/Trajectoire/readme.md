@@ -53,6 +53,7 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 |---|---|---|---|---|---|---|---|---|---|
 |x(m)|0.3|1.1|1.9|2.7|3.5|4.3|5.1|5.9|6.7|
 |h(m)|3.856|4.184|4.384|4.456|4.4|4.216|3.904|3.464|2.896|
+
 Rentrer les couples (x,h) dans le tableur de geogebra. Sélectionner la plage de valeurs et demander à géogebra de produire la liste de points correspondante.
 
 1. Combien la caméra prend-t-elle d'images par seconde ?
