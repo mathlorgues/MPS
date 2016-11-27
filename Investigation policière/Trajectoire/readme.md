@@ -19,10 +19,10 @@ Caméra 1:
 
 Caméra 2:
 
-- 16:36:24 Un tâche floue apparait sur la vidéo. Le visionnage image par image révèle le déplacement dans les airs d'un objet de petite taille en direction du batiment des enseignements technologiques par dessus l'abri du parking à vélo.
+- 16:36:24.16 Un tâche floue apparait sur la vidéo. Le visionnage image par image révèle le déplacement dans les airs d'un objet de petite taille en direction du batiment des enseignements technologiques par dessus l'abri du parking à vélo.
 
-La personne observée à demi à partir de 16:36:23 n'est visible sur aucune autre caméra. Nous avons la conviction que cette personne jette effectivement une pierre sur laquelle serait attaché le message codé depuis ce lieu vers le batiment
-d'enseignement technologique.
+La personne observée incomplètement à partir de 16:36:23 n'est visible sur aucune autre caméra. Nous avons la conviction que cette personne jette effectivement une pierre sur laquelle serait attaché le message codé depuis ce lieu vers le batiment
+d'enseignement technologique. Nous appelerons dorénavant cette personne le lanceur.
 
 Une visite du parking à vélo a permis à la police scientifique d'effectuer les relevés suivants:
 
@@ -41,8 +41,12 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 
 1. Placer le point C(7.75,4.22) pour la caméra 1.
 
-1. Tracer la droite (CB) qui constitue la limite du champ de vision de la caméra produite par le toit du parking à vélo empèchant de voir davantage du personnage qui a lancé la pierre.
+1. Tracer la droite (CB) qui constitue la limite du champ de vision de la caméra produite par le toit du parking à vélo empèchant de voir davantage le lanceur.
 
-1. L'angle formé par la partie la plus haute observable de l'individu à l'extérieur et la partie la plus basse ( où il se tient sur le sol) est de 1.46°. Construire cet angle et en déduire la position du personnage extérieur.
+1. L'angle formé par la partie la plus haute observable du lanceur et ses chaussures (où il se tient donc sur le sol) est de 1.46°. Construire cet angle et en déduire la position du personnage extérieur.
 
-1. 
+1. On suppose que le point d'impact sur le mu correspond au point D(7.75,2.06) où l'on a retrouvé une marque.
+
+1. La caméra 2 révèle les données suivantes:
+
+24.16|24.2|24.24|24.28|24.32|24.36|24.4|24.44|24.48|24.52|24.56|24.6|24.68|24.72|24.76|24.8|24.84|24.88|24.92|24.96|25|
