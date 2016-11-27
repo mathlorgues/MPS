@@ -53,6 +53,6 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 
 | First Header  | Second Header |
-| ------------- | - |
+| ------------- | -- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
