@@ -70,3 +70,5 @@ La caméra 2 révèle les données suivantes:
 1. La trajectoire obtenue est elle compatible avec le point d'impact retrouvé sur le mur ?
 
 1. Des études ont montré que les projectiles lancés à la main sont lachés 10 centimètres au dessus de la tête, quelle est la taille du lanceur ?
+
+<!-- -0.1x2+0.55x+3.7 (-2.3872,1.81715) -->
