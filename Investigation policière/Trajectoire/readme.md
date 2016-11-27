@@ -19,7 +19,7 @@ Caméra 1:
 
 Caméra 2:
 
--16:36:24 Un tâche floue apparait sur la vidéo. Le visionnage image par image révèle le déplacement dans les airs d'un objet de petite taille en direction du batiment des enseignements technologiques par dessus l'abri du parking à vélo.
+- 16:36:24 Un tâche floue apparait sur la vidéo. Le visionnage image par image révèle le déplacement dans les airs d'un objet de petite taille en direction du batiment des enseignements technologiques par dessus l'abri du parking à vélo.
 
 La personne observée à demi à partir de 16:36:23 n'est visible sur aucune autre caméra. Nous avons la conviction que cette personne jette effectivement une pierre sur laquelle serait attaché le message codé depuis ce lieu vers le batiment
 d'enseignement technologique.
@@ -38,3 +38,11 @@ Utiliser le logiciel [geogebra](https://www.geogebra.org/) pour réaliser une mo
 L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lycée.
 
 1. Construire le segment pour le toit du parking à vélo A(0,3) et B(4.6,3).
+
+1. Placer le point C(7.75,4.22) pour la caméra 1.
+
+1. Tracer la droite (CB) qui constitue la limite du champ de vision de la caméra produite par le toit du parking à vélo empèchant de voir davantage du personnage qui a lancé la pierre.
+
+1. L'angle formé par la partie la plus haute observable de l'individu à l'extérieur et la partie la plus basse ( où il se tient sur le sol) est de 1.46°. Construire cet angle et en déduire la position du personnage extérieur.
+
+1. 
