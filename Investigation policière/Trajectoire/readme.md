@@ -1,9 +1,9 @@
-Exploitation des images prises par une caméra de surveillance
+Exploitation des images prises par des caméras de surveillance
 =============================================================
 
 Une connaissance de la victime a révélé que le message codé, retrouvé dans la chambre de la victime, avait été ramassé par celle-ci scotché à un caillou lorsqu'elle avait récupéré son vélo pour aller participer à son entrainement de basket, la veille du crime.
 
-Le visionnage des caméras de surveillance, aux alentours du parking à vélos, atteste cette version puisque aux alentours des 16h35, on peut observer les scènes suivantes:
+Le visionnage des caméras de surveillance du parking à vélos, atteste cette version puisque aux alentours des 16h35, on peut observer la scène suivante:
 
 Caméra 1:
 
