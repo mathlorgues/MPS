@@ -45,7 +45,7 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 
 1. L'angle formé par la partie la plus haute observable du lanceur et ses chaussures (où il se tient donc sur le sol) est de 1.46°. Construire cet angle et en déduire la position du personnage extérieur.
 
-1. On suppose que le point d'impact sur le mu correspond au point D(7.75,2.06) où l'on a retrouvé une marque. Placer ce point.
+1. On suppose que le point d'impact sur le mur correspond au point D(7.75,1.956) où l'on a retrouvé une marque. Placer ce point.
 
 1. La caméra 2 révèle les données suivantes:
 
@@ -54,10 +54,16 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 |x(m)|0.3|1.1|1.9|2.7|3.5|4.3|5.1|5.9|6.7|
 |h(m)|3.856|4.184|4.384|4.456|4.4|4.216|3.904|3.464|2.896|
 
-Rentrer les coules (x,h) dans le tableur de geogebra. Sélectionner la plage de valeurs et demander à géogebra d'engendre une liste de points.
+Rentrer les couples (x,h) dans le tableur de geogebra. Sélectionner la plage de valeurs et demander à géogebra d'engendre une liste de points.
 
 1. Combien la caméra prend-t-elle d'images par seconde ?
 
 1. La trajectoire réalisée par le caillou est une parabole, c'est à dire le graphe d'une fonction de la forme ax^2+bx+c. Réaliser un tel graphe sur géogebra. Valider la proposition de créer trois curseurs pour les trois paramètres a,b,c.
 
 1. Ajuster les trois paramètres pour faire passer la courbe le plus près possible des points placés précédemment.
+
+1. Dans la champ de saisie utiliser la fonction polynôme avec trois points de la trajectoire.
+
+1. La trajectoire obtenue est elle compatible avec le point d'impact retrouvé sur le mur ?
+
+1. Des études ont montré que les projectiles lancés à la main sont lachés 10 centimètres au dessus de la tête, quelle est la taille du lanceur ?
