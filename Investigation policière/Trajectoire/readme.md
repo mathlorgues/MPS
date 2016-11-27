@@ -9,9 +9,9 @@ Caméra 1:
 
 - 16:36:18 La victime entre dans le champ de vision de la caméra, s'approche de son vélo et semble oeuvrer pour détacher un antivol.
 
-- 16:36:23 En arrière plan, on peut distinguer à travers le grillage de l'enceinte du lycée, le bas de pantalon ansi que les chaussures d'une personne s'approchant depuis l'extérieur du parking à vélo. La victime occupée sur son vélo ne voit pas cette personne.
+- 16:36:23 En arrière plan, on peut distinguer à travers le grillage de l'enceinte du lycée, le bas de pantalon et les chaussures d'une personne s'approchant depuis l'extérieur du parking à vélo. La victime occupée sur son vélo ne voit pas cette personne.
 
-- 16:32:25 La personne extérieure sort du champ de vision de la caméra rapidement. C'est à ce moment là que la victime se tourne vers la façade du batiment d'enseignement technologique comme attirée par un bruit et observe dans une direction, fait quelques pas et ramasse un objet sur le sol.
+- 16:32:25 La personne extérieure sort du champ de vision de la caméra rapidement. C'est à ce moment là que la victime se tourne vers la façade du batiment d'enseignement technologique comme attirée par un bruit, elle fait quelques pas et ramasse un objet sur le sol.
 
 - 16:37:05 La victime inspecte un moment l'objet ramassé, semble détacher quelquechose qui se révèle être un bout de papier qu'elle observe un moment et glisse dans son sac à dos.
 
@@ -21,8 +21,20 @@ Caméra 2:
 
 -16:36:24 Un tâche floue apparait sur la vidéo. Le visionnage image par image révèle le déplacement dans les airs d'un objet de petite taille en direction du batiment des enseignements technologiques par dessus l'abri du parking à vélo.
 
-La personne observée à demi à partir de 16:36:23 n'est visible sur aucune caméra.
+La personne observée à demi à partir de 16:36:23 n'est visible sur aucune autre caméra. Nous avons la conviction que cette personne jette effectivement une pierre sur laquelle serait attaché le message codé depuis ce lieu vers le batiment
+d'enseignement technologique.
 
 Une visite du parking à vélo a permis à la police scientifique d'effectuer les relevés suivants:
 
-En choisissant comme origine d'un repère en deux dimensions le pied du grillage exterieur du parking à vélo à proximité de l'inconnu.
+- On a retrouvé une pierre à l'endroit où la victime avait laissé un objet sur la vidéo. On a pu relever des traces de colle sur cette pierre. On a pu aussi relever des traces d'un choc entre la pierre et la facade du bâtiment. Un point d'impact a été identifié sur le mur.
+
+On a pu effectuer dans le plan de la trajectoire du caillou, un ensemble de mesures.
+
+Partie 1:
+========
+
+Utiliser le logiciel [geogebra](https://www.geogebra.org/) pour réaliser une modélisation de la situation.
+
+L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lycée.
+
+1. Construire le segment pour le toit du parking à vélo A(0,3) et B(4.6,3).
