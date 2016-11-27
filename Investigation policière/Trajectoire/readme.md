@@ -45,16 +45,19 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 
 1. L'angle formé par la partie la plus haute observable du lanceur et ses chaussures (où il se tient donc sur le sol) est de 1.46°. Construire cet angle et en déduire la position du personnage extérieur.
 
-1. On suppose que le point d'impact sur le mu correspond au point D(7.75,2.06) où l'on a retrouvé une marque.
+1. On suppose que le point d'impact sur le mu correspond au point D(7.75,2.06) où l'on a retrouvé une marque. Placer ce point.
 
 1. La caméra 2 révèle les données suivantes:
 
-|t(s)|24.16|24.2|24.24|24.28|24.32|24.36|24.4|24.44|24.48|24.52|24.56|24.6|14.64|24.68|24.72|24.76|24.8|24.84|24.88|24.92|24.96|25|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|x(m)|3.3|3.45|3.6|3.75|3.9|4.05|4.2|4.35|4.5|4.65|4.8|4.95|5.1|5.25|5.4|5.55|5.7|5.85|6|6.15|6.3|6.45|
-|h(m)|4.53|4.51|4.48|4.46|4.42|4.39|4.35|4.3|4.25|4.2|4.14|4.07|4|3.93|3.85|3.77|3.69|3.6|3.5|3.4|3.3|3.19|
+|t(s)|24.16|24.2|24.24|24.28|24.32|24.36|24.4|24.44|24.48|
+|---|---|---|---|---|---|---|---|---|---|
+|x(m)|0.3|1.1|1.9|2.7|3.5|4.3|5.1|5.9|6.7|
+|h(m)|3.856|4.184|4.384|4.456|4.4|4.216|3.904|3.464|2.896|
 
-| First Header  | Second Header |
-|------------- | --- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Rentrer les coules (x,h) dans le tableur de geogebra. Sélectionner la plage de valeurs et demander à géogebra d'engendre une liste de points.
+
+1. Combien la caméra prend-t-elle d'images par seconde ?
+
+1. La trajectoire réalisée par le caillou est une parabole, c'est à dire le graphe d'une fonction de la forme ax^2+bx+c. Réaliser un tel graphe sur géogebra. Valider la proposition de créer trois curseurs pour les trois paramètres a,b,c.
+
+1. Ajuster les trois paramètres pour faire passer la courbe le plus près possible des points placés précédemment.
