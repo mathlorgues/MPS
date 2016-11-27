@@ -37,6 +37,8 @@ Utiliser le logiciel [geogebra](https://www.geogebra.org/) pour réaliser une mo
 
 L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lycée.
 
+1. Régler les arrondis à 15 décimales (option /Arrondi).
+
 1. Construire le segment pour le toit du parking à vélo A(0,3) et B(4.6,3).
 
 1. Placer le point C(7.75,4.22) pour la caméra 1.
