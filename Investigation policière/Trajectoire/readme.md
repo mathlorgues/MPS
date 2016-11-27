@@ -56,7 +56,7 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 
 Rentrer les couples (x,h) dans le tableur de geogebra. Sélectionner la plage de valeurs et demander à géogebra de produire la liste de points correspondante.
 
-1. Combien la caméra prend-t-elle d'images par seconde ?
+7. Combien la caméra prend-t-elle d'images par seconde ?
 
 1. La trajectoire réalisée par le caillou est une parabole, c'est à dire le graphe d'une fonction de la forme ax^2+bx+c. Réaliser un tel graphe sur géogebra. Valider la proposition de créer trois curseurs pour les trois paramètres a,b,c.
 
