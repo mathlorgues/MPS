@@ -17,4 +17,8 @@
 
 ## Investigation policière.
 
- [Etude d'une trajectoire](https://github.com/mathlorgues/MPS/tree/master/Investigation%20polici%C3%A8re/Trajectoire).
+https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/RapportDePolice.odt
+
+1. [Etude d'une trajectoire](https://github.com/mathlorgues/MPS/tree/master/Investigation%20polici%C3%A8re/Trajectoire).
+
+1. [Etude d'un message codé]().
