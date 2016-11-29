@@ -1,7 +1,7 @@
 Exploitation des images prises par des caméras de surveillance
 =============================================================
 
-Une connaissance de la victime a révélé que le message codé, retrouvé dans la chambre de la victime, avait été ramassé par celle-ci scotché à un caillou lorsqu'elle avait récupéré son vélo pour aller participer à son entrainement de basket, la veille du crime.
+La conjointe de la victime a révélé que la veille du meurtre, la victime avait passé une partie de sa soirée à décoder un message secret. La victime aurait affirmé avoir ramassé ce message secret, scotché à un caillou, lorsqu'elle récupérait sa bicyclette au parking à vélos du lycée, avant d'aller à son entraînement de basket, le même jour.
 
 Le visionnage des caméras de surveillance du parking à vélos, atteste cette version puisque aux alentours des 16h35, on peut observer la scène suivante:
 
