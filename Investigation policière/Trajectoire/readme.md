@@ -75,7 +75,7 @@ La caméra 2 révèle les données suivantes:
 
 <!-- -0.1x2+0.55x+3.7 (-2.3872,1.81715) -->
 
-Partie 3: Chute de coprs dotés d'une vitesse initiale.
+Partie 3: Chute de corps dotés d'une vitesse initiale.
 =========
 
 Tout objet est attiré par tout autre objet de masse non nulle. Cependant, l'attraction qu'exerce un objet sur un autre, à la surface de la terre est négligeable davant l'attraction exercée par la terre sur ces objets. On appelle pesanteur cette dernière attraction.
@@ -85,11 +85,15 @@ On suppose que la taille des objets que nous allons considérer est suffisament 
 Chute de corps:
 --------------
 
-Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre se met en mouvement depuis sa position de repos en accélérant dans la direction verticale et vers le bas de façon constante jusqu'à heurter la surface de la terre. Sa trajectoire est verticale.
+Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre se met en mouvement depuis sa position initiales en accélérant dans la direction verticale et vers le bas jusqu'à heurter la surface de la terre. Sa trajectoire est verticale. Nous allons voir que son mouvement est uniformément accélré.
 
-Nous allons étudier
+1. La force F verticale vers le bas qui s'exerce sur ce corps vaut mg où m est la masse de ce corps et g la constante de pesanteur qui est une accélération. En appliquant le principe fondamental de la dynamique, montrer que le mouvement du corps est uniformément accéléré.
 
-On choisit
+2. En prenant pour origine du temps, le moment où le corps commence sa chute, quelle est sa vitesse au bout d'une seconde ? 2 secondes  ? t secondes ?
 
-La force F qui s'exerce sur ce corps vaut mg où m est la masse de ce corps et g la constante de pesanteur qui est une accélération. D'après le principe fondamental de la dynamique, le corps subit une accélération égale à
-On appelle l'équation horaire
+3. On admet alors que la position du corps à l'instant t vaut h(t)=h(0)-1.5gt^2. On appelle équation horaire du mouvement l'équation y=h(t). En utilisant un curseur pour le paramètre t et en construisant le point (0,h(t)) réaliser sous géogebra une animation de la chute d'un corps.
+
+4. Si maintenant le corps est lancée verticalement avec la vitesse v, on admet que la nouvelle équation horaire du mouvement obtenu est h(t)=h(0)+vt-0.5gt^2.
+Réaliser une simulation d'un tel mouvemnt avec géogebra.
+
+5. Si maintenant le corps est lancé dans un direction non verticale. On considère le plan engendré par la verticale et la direction du vecteur vitesse. On choisit un repère orthonormé d'axes horizontal et vertical et d'origine un point sur le sol.
