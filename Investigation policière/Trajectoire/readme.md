@@ -91,7 +91,7 @@ Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre s
 
 2. En prenant pour origine du temps, le moment où le corps commence sa chute, quelle est sa vitesse au bout d'une seconde ? 2 secondes  ? t secondes ?
 
-3. On admet alors que la position du corps à l'instant t vaut h(t)=h(0)-1.5gt^2. On appelle équation horaire du mouvement l'équation y=h(t). En utilisant un curseur pour le paramètre t et en construisant le point (0,h(t)) réaliser sous géogebra une animation de la chute d'un corps.
+3. On admet alors que la position du corps à l'instant t vaut h(t)=h(0)-0.5gt^2. On appelle équation horaire du mouvement l'équation y=h(t). En utilisant un curseur pour le paramètre t et en construisant le point (0,h(t)) réaliser sous géogebra une animation de la chute d'un corps.
 
 4. Si maintenant le corps est lancée verticalement avec la vitesse v, on admet que la nouvelle équation horaire du mouvement obtenu est h(t)=h(0)+vt-0.5gt^2.
 Réaliser une simulation d'un tel mouvemnt avec géogebra.
@@ -99,4 +99,17 @@ Réaliser une simulation d'un tel mouvemnt avec géogebra.
 Chute parabolique d'un corps:
 -----------------------------
 
-5. Si maintenant le corps est lancé dans un direction non verticale. On considère le plan engendré par la verticale et la direction du vecteur vitesse. On choisit un repère orthonormé d'axes horizontal et vertical et d'origine un point sur le sol.
+Si maintenant le corps est lancé dans un direction non verticale. On considère le plan engendré par la verticale et la direction du vecteur vitesse. On choisit un repère orthonormé d'axes horizontal et vertical et d'origine un point sur le sol. On note (u,v) les composantes du vecteur vitesse au commencement du mouvement qu'on choisit comme origine du temps. L'équation horaire pour la coordonnée verticale est la même que précédemment. Horizontalement, l'objet réalise un mouvement uniforme de vitesse constante u. Ainsi, l'équatio horaire du mouvement est:
+
+x(t)=x(0)+ut et y(t)=y(0)+vt-0.5gt^2.
+
+1. Réaliser une simulation d'un tel mouvement sur géogébra.
+
+1. On se place maintenant dans le cas où (x(0),y(0))=(0,0) est l'origine du repère. Dans ce cas, t=x(t)/u. En remplaçant t par cette valeur dans l'équation horaire y(t), donner une équation y=g(x) pour la trajectoire du corps.
+
+1.  On appelle portée de la trajectoire la distance à laquelle le corps se trouve sur le sol de sa position initiale.
+Si on double la vitesse initiale du corps, réaliser à l'aide de géogebra une conjecture reliant la portée de la trajectoire initiale et celle de la trajectoire obtenue.
+
+1. Résoudre l'équation y(x)=0. En déduire une formule pour la portée de la trajectoire.
+
+1. Démontrer alors la conjecture précédente.
