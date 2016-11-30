@@ -99,7 +99,7 @@ Réaliser une simulation d'un tel mouvement avec géogebra.
 Chute parabolique d'un corps:
 -----------------------------
 
-Si maintenant le corps est lancé dans un direction non verticale. On considère le plan engendré par la verticale et la direction du vecteur vitesse. On choisit un repère orthonormé d'axes horizontal et vertical et d'origine un point sur le sol. On note (u,v) les composantes du vecteur vitesse au commencement du mouvement qu'on choisit comme origine du temps. L'équation horaire pour la coordonnée verticale est la même que précédemment. Horizontalement, l'objet réalise un mouvement uniforme de vitesse constante u. Ainsi, l'équatio horaire du mouvement est:
+Si maintenant le corps est lancé dans un direction non verticale. On considère le plan engendré par la verticale et la direction du vecteur vitesse. On choisit un repère orthonormé d'axes horizontal et vertical et d'origine un point sur le sol. On note (u,v) les composantes du vecteur vitesse au commencement du mouvement qu'on choisit comme origine du temps. L'équation horaire pour la coordonnée verticale est la même que précédemment. Horizontalement, l'objet réalise un mouvement uniforme de vitesse constante u. Ainsi, l'équation horaire du mouvement est:
 
 x(t)=x(0)+ut et y(t)=y(0)+vt-0.5gt^2.
 
