@@ -82,7 +82,7 @@ Tout objet est attiré par tout autre objet de masse non nulle. Cependant, l'att
 
 On suppose que la taille des objets que nous allons considérer est suffisament petite pour que l'on puisse considérer la terre comme un demi-espace de masse homogène dont la surface est donc un plan qualifié d'horizontal.
 
-Chute de corps:
+Chute verticale d'un corps:
 --------------
 
 Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre se met en mouvement depuis sa position initiales en accélérant dans la direction verticale et vers le bas jusqu'à heurter la surface de la terre. Sa trajectoire est verticale. Nous allons voir que son mouvement est uniformément accélré.
@@ -95,5 +95,8 @@ Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre s
 
 4. Si maintenant le corps est lancée verticalement avec la vitesse v, on admet que la nouvelle équation horaire du mouvement obtenu est h(t)=h(0)+vt-0.5gt^2.
 Réaliser une simulation d'un tel mouvemnt avec géogebra.
+
+Chute parabolique d'un corps:
+-----------------------------
 
 5. Si maintenant le corps est lancé dans un direction non verticale. On considère le plan engendré par la verticale et la direction du vecteur vitesse. On choisit un repère orthonormé d'axes horizontal et vertical et d'origine un point sur le sol.
