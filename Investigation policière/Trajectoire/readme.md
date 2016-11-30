@@ -94,7 +94,7 @@ Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre s
 3. On admet alors que la position du corps à l'instant t vaut h(t)=h(0)-0.5gt^2. On appelle équation horaire du mouvement l'équation y=h(t). En utilisant un curseur pour le paramètre t et en construisant le point (0,h(t)) réaliser sous géogebra une animation de la chute d'un corps.
 
 4. Si maintenant le corps est lancée verticalement avec la vitesse v, on admet que la nouvelle équation horaire du mouvement obtenu est h(t)=h(0)+vt-0.5gt^2.
-Réaliser une simulation d'un tel mouvemnt avec géogebra.
+Réaliser une simulation d'un tel mouvement avec géogebra.
 
 Chute parabolique d'un corps:
 -----------------------------
