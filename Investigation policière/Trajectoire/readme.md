@@ -85,7 +85,7 @@ On suppose que la taille des objets que nous allons considérer est suffisament 
 Chute verticale d'un corps:
 --------------
 
-Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre se met en mouvement depuis sa position initiales en accélérant dans la direction verticale et vers le bas jusqu'à heurter la surface de la terre. Sa trajectoire est verticale. Nous allons voir que son mouvement est uniformément accélré.
+Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre se met en mouvement depuis sa position initiales en accélérant dans la direction verticale et vers le bas jusqu'à heurter la surface de la terre. Sa trajectoire est verticale.
 
 1. La force F verticale vers le bas qui s'exerce sur ce corps vaut mg où m est la masse de ce corps et g la constante de pesanteur qui est une accélération. En appliquant le principe fondamental de la dynamique, montrer que le mouvement du corps est uniformément accéléré.
 
