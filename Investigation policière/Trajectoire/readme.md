@@ -30,7 +30,7 @@ Une visite du parking à vélo a permis à la police scientifique d'effectuer le
 
 On a pu effectuer dans le plan de la trajectoire du caillou, un ensemble de mesures.
 
-Partie 1:
+Partie 1: Schéma des lieux.
 ========
 
 Utiliser le logiciel [geogebra](https://www.geogebra.org/) pour réaliser une modélisation de la situation.
@@ -49,7 +49,7 @@ L'origine du repère est choisi au bas du grillage délimitant l'enceinte du lyc
 
 1. On suppose que le point d'impact sur le mur correspond au point D(7.75,1.956) où l'on a retrouvé une marque. Placer ce point.
 
-Partie 2:
+Partie 2: Exploitation de la trajectoire.
 ========
 
 La caméra 2 révèle les données suivantes:
@@ -74,3 +74,22 @@ La caméra 2 révèle les données suivantes:
 1. Des études ont montré que les projectiles lancés à la main sont lachés 10 centimètres au dessus de la tête, quelle est la taille du lanceur ?
 
 <!-- -0.1x2+0.55x+3.7 (-2.3872,1.81715) -->
+
+Partie 3: Chute de coprs dotés d'une vitesse initiale.
+=========
+
+Tout objet est attiré par tout autre objet de masse non nulle. Cependant, l'attraction qu'exerce un objet sur un autre, à la surface de la terre est négligeable davant l'attraction exercée par la terre sur ces objets. On appelle pesanteur cette dernière attraction.
+
+On suppose que la taille des objets que nous allons considérer est suffisament petite pour que l'on puisse considérer la terre comme un demi-espace de masse homogène dont la surface est donc un plan qualifié d'horizontal.
+
+Chute de corps:
+--------------
+
+Un corps laché (sans vitesse initiale) au voisinage de la surface de la terre se met en mouvement depuis sa position de repos en accélérant dans la direction verticale et vers le bas de façon constante jusqu'à heurter la surface de la terre. Sa trajectoire est verticale.
+
+Nous allons étudier
+
+On choisit
+
+La force F qui s'exerce sur ce corps vaut mg où m est la masse de ce corps et g la constante de pesanteur qui est une accélération. D'après le principe fondamental de la dynamique, le corps subit une accélération égale à
+On appelle l'équation horaire
