@@ -63,11 +63,12 @@ Principe :  A chaque lettre est associée un nombre entier n selon son rang dan
 Deux nombres a et b sont choisis comme clés.
 
 Méthode :
-⋆ Au nombre n de départ, on associe le nombre m = an + b.
-⋆ Ce nombre m n’étant pas toujours compris entre 0 et 25, il ne permet pas de chiffrer une lettre.
-⋆ Pour résoudre ce problème, le codage se fait en associant au nombre de départ n le nombre entier p,
+- Au nombre n de départ, on associe le nombre m = an + b.
+- Ce nombre m n’étant pas toujours compris entre 0 et 25, il ne permet pas de chiffrer une lettre.
+- Pour résoudre ce problème, le codage se fait en associant au nombre de départ n le nombre entier p,
 reste de la division euclidienne de m par 26.
-⋆ Puis, on retranscrit p en lettres.
+- Puis, on retranscrit p en lettres.
+
 Par exemple, si on prend a = 4 et b = 1.
 La lettre Z est remplacée par n = 25.
 Puis m = 4 × 25 + 1 = 101.
