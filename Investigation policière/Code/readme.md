@@ -28,7 +28,7 @@ Ce qui donne la correspondance suivante :
 
 2. Décoder le texte « EBQOXD OVSWSXOB VK MSLVO »
 
-3. Pour faciliter le cryptage et le décryptage d’un texte, on peut utiliser les cercles concentriques de la page annexe, on les fixe par le centre, celui de plus grand diamètre est fixe et l’autre mobile, en le faisant tourner, on obtient le décalage des lettres, donc la correspondance.
+3. Pour faciliter le cryptage et le décryptage d’un texte, on peut utiliser les disques concentriques ([petit](https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/PetitDisque.png) et [grand](https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/GrandDisque.png)), on les fixe par le centre, celui de plus grand diamètre est fixe et l’autre mobile, en le faisant tourner, on obtient le décalage des lettres, donc la correspondance.
 
 Parie 2: Décryptage d’un texte par analyse des fréquences.
 
