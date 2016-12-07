@@ -30,6 +30,11 @@ Ce qui donne la correspondance suivante :
 
 3. Pour faciliter le cryptage et le décryptage d’un texte, on peut utiliser les disques concentriques ([petit](https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/PetitDisque.png) et [grand](https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/GrandDisque.png)), on les fixe par le centre, celui de plus grand diamètre est fixe et l’autre mobile, en le faisant tourner, on obtient le décalage des lettres, donc la correspondance.
 
+En utilisant un codage de César, clé 17
+1. Coder le texte : « LES PETITS RUISSEAUX FONT DE GRANDES RIVIERES»
+
+2. Décoder le texte « UV HLZ JFEK TVJ JVIGVEKJ HLZ JZWWCVEK JLI EFJ KVKVJ»
+
 Parie 2: Décryptage d’un texte par analyse des fréquences.
 
 
