@@ -51,11 +51,9 @@ Suivant la langue, toutes les lettres n’ont pas la même fréquence d’appari
 |17,52|8,17|8,01|7,35|7,22|7,07|6,69|6|5,77|5,43|3,91|3,23|2,94|2,90|1,41|1,14|1,6|1,06|0,88|0,88|0,47|0,44|0,30|0,12|0,05|0,02|
 
 1. Déchiffrer le texte suivant :
-
 TW J L FYP ELFAP OLYD YZECP DPCGTNP TW QLFE WL OPXLDBFPC
 
 1. Dans la corbeille, sur du papier froissé, les enquêteurs ont trouvé le message suivant :
-
 RGGFIKVQCRWFIDLCVJVTIVKVTFDDVGIVMLVKEVGIVMVEVQQRJCRGFCZTV . Déchiffrer le.
 
 Partie 3: Codage affine.
