@@ -50,7 +50,29 @@ Suivant la langue, toutes les lettres n’ont pas la même fréquence d’appari
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |17,52|8,17|8,01|7,35|7,22|7,07|6,69|6|5,77|5,43|3,91|3,23|2,94|2,90|1,41|1,14|1,6|1,06|0,88|0,88|0,47|0,44|0,30|0,12|0,05|0,02|
 
+1. Déchiffrer le texte suivant :
 
+TW J L FYP ELFAP OLYD YZECP DPCGTNP TW QLFE WL OPXLDBFPC
 
+1. Dans la corbeille, sur du papier froissé, les enquêteurs ont trouvé le message suivant :
+
+RGGFIKVQCRWFIDLCVJVTIVKVTFDDVGIVMLVKEVGIVMVEVQQRJCRGFCZTV . Déchiffrer le.
 
 Partie 3: Codage affine.
+------------------------
+
+Principe :  A chaque lettre est associée un nombre entier n selon son rang dans l’alphabet de 0 pour la lettre A à 25 pour la lettre Z.
+Deux nombres a et b sont choisis comme clés.
+
+Méthode :
+⋆ Au nombre n de départ, on associe le nombre m = an + b.
+⋆ Ce nombre m n’étant pas toujours compris entre 0 et 25, il ne permet pas de chiffrer une lettre.
+⋆ Pour résoudre ce problème, le codage se fait en associant au nombre de départ n le nombre entier p,
+reste de la division euclidienne de m par 26.
+⋆ Puis, on retranscrit p en lettres.
+Par exemple, si on prend a = 4 et b = 1.
+La lettre Z est remplacée par n = 25.
+Puis m = 4 × 25 + 1 = 101.
+Or 101 n’est pas compris entre 0 et 25, on effectue donc la division euclidienne de 101 par 26 ce qui
+donne :  101 = 3 × 26 + 23.
+Donc p = 23 qui correspond à la lettre X. Z est donc codée par X.
