@@ -23,7 +23,9 @@ Ce qui donne la correspondance suivante :
 |K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|D|A|B|D|E|F|G|H|I|J|
 
 À l’aide du tableau précédent :
+
 1. Coder le texte : « OPERATION ANNULEE »
+
 2. Décoder le texte « EBQOXD OVSWSXOB VK MSLVO »
 
 3. Pour faciliter le cryptage et le décryptage d’un texte, on peut utiliser les cercles concentriques de la page annexe, on les fixe par le centre, celui de plus grand diamètre est fixe et l’autre mobile, en le faisant tourner, on obtient le décalage des lettres, donc la correspondance.
