@@ -14,7 +14,8 @@ L’un des premiers codages utilisés est le code de César qui doit son nom à 
 
 Ainsi le mot « ANTIQUITE », devient après codage : « DQWLTXLWH »,  de même le mot codé « UDQJHU » s’écrit « RANGER » après décodage.
 
-Par extension, tout codage obtenu en  décalant les lettres de l’alphabet d’un même rang est appelé code de César, le rang constant est appelé la clé du codage.
+Par extension, tout codage obtenu en  décalant les lettres de l’alphabet d’un même rang est appelé code de César, le rang constant est appelé la **clé du codage**.
+
 Par exemple un codage de César de clé 10, signifie qu’on décale chaque lettre de 10 rangs,  A est remplacé par K, B par L ...
 Ce qui donne la correspondance suivante :
 
@@ -41,7 +42,13 @@ Quelle est la clé ?
 Parie 2: Décryptage d’un texte par analyse des fréquences.
 ----------------------------------------------------------
 
-Si on ne connait pas la clé, le code de César est assez facile à décrypter, une méthode certes un peu longue, appelée brute-force consiste à essayer toutes les 25 clés possibles. Une autre est l’analyse des fréquences.
+Si on ne connait pas la clé, le code de César est assez facile à décrypter, une méthode certes un peu longue, appelée **brute-force** consiste à essayer toutes les 25 clés possibles. Une autre est l’analyse des fréquences.
+
 Suivant la langue, toutes les lettres n’ont pas la même fréquence d’apparition dans un texte. Le tableau suivant donne la fréquence théorique d’apparition des lettres d’un texte de la langue française.
+
+|E|S|A|I|N|T|R|U|L|O|D|C|P|M|V|Q|G|F|H|B|X|J|Y|Z|K|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|17,52|8,17|8,01|7,35|7,22|7,07|6,69|6|5,77|5,43|3,91|3,23|2,94|2,90|1,41|1,14|1,6|1,06|0,88|0,88|0,47|0,44|0,30|0,12|0,05|0,02|
+
 
 Partie 3: Codage affine.
