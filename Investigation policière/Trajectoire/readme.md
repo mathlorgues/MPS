@@ -11,7 +11,7 @@ Caméra 1:
 
 - 16:36:23 En arrière plan, on peut distinguer à travers le grillage de l'enceinte du lycée, le bas de pantalon et les chaussures d'une personne s'approchant depuis l'extérieur du parking à vélo. La victime occupée sur son vélo ne voit pas cette personne.
 
-- 16:32:25 La personne extérieure sort du champ de vision de la caméra rapidement. C'est à ce moment là que la victime se tourne vers la façade du batiment d'enseignement technologique comme attirée par un bruit, elle fait quelques pas et ramasse un objet sur le sol.
+- 16:36:25 La personne extérieure sort du champ de vision de la caméra rapidement. C'est à ce moment là que la victime se tourne vers la façade du batiment d'enseignement technologique comme attirée par un bruit, elle fait quelques pas et ramasse un objet sur le sol.
 
 - 16:37:05 La victime inspecte un moment l'objet ramassé, semble détacher quelquechose qui se révèle être un bout de papier qu'elle observe un moment et glisse dans son sac à dos.
 
