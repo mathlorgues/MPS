@@ -23,6 +23,8 @@ Ce qui donne la correspondance suivante :
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|A|B|C|D|E|F|G|H|I|J|
 
+modif pour
+
 À l’aide du tableau précédent :
 
 1. Coder le texte : « OPERATION ANNULEE »
