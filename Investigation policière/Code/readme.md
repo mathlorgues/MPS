@@ -86,15 +86,12 @@ On prend a=3 et b=7.
 1. Décrypter le mot HPJJF avec la clé (3;7).
 
 Partie 4: Codage à l'aide d'une table de Vigenère.
+==================================================
 
-Même si l’on connaissait depuis fort longtemps les faiblesses de la cryptographie par substitution, il n’y
-eut pas entre César et le XVI ème siècle de véritable nouveau procédé cryptographique, à la fois sûr et facile
-à utiliser. Blaise de Vigenère, né en 1523, fut l’initiateur d’une nouvelle façon de chiffrer les messages qui
+Même si l’on connaissait depuis fort longtemps les faiblesses de la cryptographie par substitution, il n’y eut pas entre César et le XVI ème siècle de véritable nouveau procédé cryptographique, à la fois sûr et facile à utiliser. Blaise de Vigenère, né en 1523, fut l’initiateur d’une nouvelle façon de chiffrer les messages qui
 domina 3 siècles durant.
 
-Vigenère était quelqu’un de très hétéroclite, tantôt alchimiste, écrivain, historien, il était aussi diplomate
-au service des ducs de Nevers et des rois de France. C’est en 1586 qu’il publie son Traité des chiffres ou
-Secrètes manières d’écrire, qui explique son nouveau chiffre (le texte intégral est disponible sur le site de la
+Vigenère était quelqu’un de très hétéroclite, tantôt alchimiste, écrivain, historien, il était aussi diplomate au service des ducs de Nevers et des rois de France. C’est en 1586 qu’il publie son Traité des chiffres ou Secrètes manières d’écrire, qui explique son nouveau chiffre (le texte intégral est disponible sur le site de la
 Bibliothèque Nationale de France).
 
 L’idée de Vigenère est d’utiliser un chiffre de César, mais où le décalage utilisé change de lettres en
