@@ -101,3 +101,13 @@ verticalement, un dernier alphabet, pour la clé .
 
 Il s’agit de la table de Vigenère suivante :
 ![table de vigenère](https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/table.png)
+
+Pour coder un message avec le chiffre de Vigenère, on choisit une clé qui sera un mot de longueur arbitraire. On écrit ensuite cette clé sous le message à coder, en la répétant aussi souvent que nécessaire pour que sous chaque lettre du message à coder, on trouve une lettre de la clé. Ensuite pour coder, on regarde dans le tableau l'intersection de la ligne de la lettre à coder et de la colonne de la lettre de la clé.
+
+Exemple: On veut coder le mot CRYPTOGRAPHIE avec la clé MATHWEB :
+
+|Texte à crypter|C|R|Y|P|T|O|G|R|A|P|H|I|E|
+|---------------|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Clé            |M|A|T|H|W|E|B|M|A|T|H|W|E|
+|---------------|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Texte crypté	  |O|R|	|	|	|	|	|	|	|	|	|	|	|
