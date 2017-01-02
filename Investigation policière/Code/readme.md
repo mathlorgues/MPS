@@ -58,6 +58,8 @@ TW J L FYP ELFAP OLYD YZECP DPCGTNP TW QLFE WL OPXLDBFPC
 1. Dans la corbeille, sur du papier froissé, les enquêteurs ont trouvé le message suivant :
 RGGFIKVQCRWFIDLCVJVTIVKVTFDDVGIVMLVKEVGIVMVEVQQRJCRGFCZTV . Déchiffrer le.
 
+<!-- Apportez la formule secrète comme prévu et ne prévenez pas la police -->
+
 Partie 3: Codage affine.
 ------------------------
 
@@ -83,7 +85,11 @@ On prend a=3 et b=7.
 
 1. Coder le mot "Moi" avec la clé (3;7).
 
+ <!-- RXF -->
+
 1. Décrypter le mot HPJJF avec la clé (3;7).
+
+ <!-- AUSSI -->
 
 Partie 4: Codage à l'aide d'une table de Vigenère.
 ==================================================
@@ -117,3 +123,11 @@ ligne C et de la colonne M. On trouve la lettre O.
 On procède de façon analogue pour la suite.
 
  <img src="https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/table%20couleur.png" alt="table de vigenère avec explication visuelle" height="1000" width="1000">
+
+ 1. Compléter le tableau précédent.
+
+ <!-- ORRWPSHDAIOEI -->
+
+ 1. Décoder le message MPIVJFESSSROKTMXE avec la clé MATHS.
+
+ <!-- apportez la formule -->
