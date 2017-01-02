@@ -116,6 +116,4 @@ On cherche donc dans le tableau l'intersection de la
 ligne C et de la colonne M. On trouve la lettre O.
 On procède de façon analogue pour la suite.
 
-![table de vigenère avec explication visuelle](https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/table%20couleur.png)
-
- <img src="https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/table%20couleur.png" alt="table de vigenère avec explication visuelle" height="1000" width="1000"> 
+ <img src="https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/table%20couleur.png" alt="table de vigenère avec explication visuelle" height="1000" width="1000">
