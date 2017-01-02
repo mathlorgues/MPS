@@ -117,3 +117,5 @@ ligne C et de la colonne M. On trouve la lettre O.
 On procède de façon analogue pour la suite.
 
 ![table de vigenère avec explication visuelle](https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/table%20couleur.png)
+
+ <img src="https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/table%20couleur.png" alt="table de vigenère avec explication visuelle" height="42" width="42"> 
