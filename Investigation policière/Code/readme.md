@@ -53,6 +53,8 @@ Suivant la langue, toutes les lettres n’ont pas la même fréquence d’appari
 1. Déchiffrer le texte suivant :
 TW J L FYP ELFAP OLYD YZECP DPCGTNP TW QLFE WL OPXLDBFPC
 
+<!-- IL Y A UNE TAUPE DANS NOTRE SERVICE IL FAUT LA DEMASQUER -->
+
 1. Dans la corbeille, sur du papier froissé, les enquêteurs ont trouvé le message suivant :
 RGGFIKVQCRWFIDLCVJVTIVKVTFDDVGIVMLVKEVGIVMVEVQQRJCRGFCZTV . Déchiffrer le.
 
@@ -75,3 +77,30 @@ Puis m = 4 × 25 + 1 = 101.
 Or 101 n’est pas compris entre 0 et 25, on effectue donc la division euclidienne de 101 par 26 ce qui
 donne :  101 = 3 × 26 + 23.
 Donc p = 23 qui correspond à la lettre X. Z est donc codée par X.
+
+On prend a=3 et b=7.
+1. Coder la lettre J avec la clé (3;7).
+
+1. Coder le mot "Moi" avec la clé (3;7).
+
+1. Décrypter le mot HPJJF avec la clé (3;7).
+
+Partie 4: Codage à l'aide d'une table de Vigenère.
+
+Même si l’on connaissait depuis fort longtemps les faiblesses de la cryptographie par substitution, il n’y
+eut pas entre César et le XVI ème siècle de véritable nouveau procédé cryptographique, à la fois sûr et facile
+à utiliser. Blaise de Vigenère, né en 1523, fut l’initiateur d’une nouvelle façon de chiffrer les messages qui
+domina 3 siècles durant.
+
+Vigenère était quelqu’un de très hétéroclite, tantôt alchimiste, écrivain, historien, il était aussi diplomate
+au service des ducs de Nevers et des rois de France. C’est en 1586 qu’il publie son Traité des chiffres ou
+Secrètes manières d’écrire, qui explique son nouveau chiffre (le texte intégral est disponible sur le site de la
+Bibliothèque Nationale de France).
+
+L’idée de Vigenère est d’utiliser un chiffre de César, mais où le décalage utilisé change de lettres en
+lettres. Pour cela, on utilise une table composée de 26 alphabets, écrits dans l’ordre, mais décalés de ligne
+en ligne d’un caractère. On écrit encore en haut un alphabet complet, pour le texte à coder, et à gauche,
+verticalement, un dernier alphabet, pour la clé .
+
+Il s’agit de la table de Vigenère suivante :
+![table de vigenère](https://github.com/mathlorgues/MPS/blob/master/Investigation%20polici%C3%A8re/Code/table.png)
