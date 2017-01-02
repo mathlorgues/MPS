@@ -109,5 +109,4 @@ Exemple: On veut coder le mot CRYPTOGRAPHIE avec la clé MATHWEB :
 |Texte à crypter|C|R|Y|P|T|O|G|R|A|P|H|I|E|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Clé            |M|A|T|H|W|E|B|M|A|T|H|W|E|
-|---------------|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Texte crypté	  |O|R|	|	|	|	|	|	|	|	|	|	|	|
