@@ -42,7 +42,7 @@ Quelle est la clé ?
 Parie 2: Décryptage d’un texte par analyse des fréquences.
 ----------------------------------------------------------
 
-Si on ne connait pas la clé, le code de César est assez facile à décrypter, une méthode certes un peu longue, appelée **brute-force** consiste à essayer toutes les 25 clés possibles. Une autre est l’analyse des fréquences.
+Si on ne connaît pas la clé, le code de César est assez facile à décrypter, une méthode certes un peu longue, appelée **brute-force** consiste à essayer toutes les 25 clés possibles. Une autre est l’analyse des fréquences.
 
 Suivant la langue, toutes les lettres n’ont pas la même fréquence d’apparition dans un texte. Le tableau suivant donne la fréquence théorique d’apparition des lettres d’un texte de la langue française.
 
@@ -56,9 +56,11 @@ TW J L FYP ELFAP OLYD YZECP DPCGTNP TW QLFE WL OPXLDBFPC
 <!-- IL Y A UNE TAUPE DANS NOTRE SERVICE IL FAUT LA DEMASQUER -->
 
 1. Dans la corbeille, sur du papier froissé, les enquêteurs ont trouvé le message suivant :
-RGGFIKVQCRWFIDLCVJVTIVKVTFDDVGIVMLVKEVGIVMVEVQQRJCRGFCZTV . Déchiffrer le.
+RGGFIKVQCRWFIDLCVJVTIVKVTFDDVGIVMLVKEVGIVMVEVQGRJCRGFCZTV . Déchiffrer le.
 
-<!-- Apportez la formule secrète comme prévu et ne prévenez pas la police -->
+<!-- Apportez la formule secrète comme prévu et ne prévenez pas la police
+RGGFIKVQ CR WFIDLCV JVTIVKV TFDDV GIVML VK EV GIVMVEVQ QRJ CR GFCZTV
+-->
 
 Partie 3: Codage affine.
 ------------------------
