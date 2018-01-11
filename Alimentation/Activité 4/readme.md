@@ -13,7 +13,7 @@ Un **cylindre** est le solide délimité par cette surface et par deux plans par
 
 
 
-<img src=https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Images/Generic-cylinder.png alt="Drawing" width= 300px;"/>
+![](https://github.com/mathlorgues/MPS/blob/master/Alimentation/Activit%C3%A9%204/Images/Generic-cylinder.png)
 
 Le **volume d'un cylindre** vaut le produit **V = S × h** où S désigne l'aire d'une des deux bases (elles ont même aire) et h la hauteur du cylindre
 
