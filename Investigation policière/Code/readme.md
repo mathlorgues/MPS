@@ -39,7 +39,7 @@ Ce qui donne la correspondance suivante :
 1. Un codage de César, transforme  « SUBSTITUTION » en « KMTKLALMLAGF »
 Quelle est la clé ?
 
-Parie 2: Décryptage d’un texte par analyse des fréquences.
+Partie 2: Décryptage d’un texte par analyse des fréquences.
 ----------------------------------------------------------
 
 Si on ne connaît pas la clé, le code de César est assez facile à décrypter, une méthode certes un peu longue, appelée **brute-force** consiste à essayer toutes les 25 clés possibles. Une autre est l’analyse des fréquences.
@@ -60,7 +60,7 @@ TW J L FYP ELFAP OLYD YZECP DPCGTNP TW QLFE WL OPXLDBFPC
 
 <!-- IL Y A UNE TAUPE DANS NOTRE SERVICE IL FAUT LA DEMASQUER -->
 
-1. Dans la corbeille, sur du papier froissé, les enquêteurs ont trouvé le message suivant :
+2. Dans la corbeille, sur du papier froissé, les enquêteurs ont trouvé le message suivant :
 RGGFIKVQCRWFIDLCVJVTIVKVTFDDVGIVMLVKEVGIVMVEVQGRJCRGFCZTV . Déchiffrer le.
 
 <!-- Apportez la formule secrète comme prévu et ne prévenez pas la police
