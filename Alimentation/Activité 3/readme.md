@@ -10,7 +10,7 @@ Par exemple, un litre de vin à 10 degrés contient 1000x0.1=100mL d'alcool.
 L'alcool diffuse dans toute l'eau de l'organisme. Or chez l'homme, l'eau représente environ 70% de son poids alors que chez la femme, elle représente environ 60% de son poids.
 On appelle **coefficient de diffusion** ce pourcentage, il est donc égal à 0.7 pour l'homme et 0.6 pour la femme.
 
-- Si a est le masse d'alcool absorbé, p "le poids" (en fait, la masse) de la personne qui l'a absorbé et k les coefficient de diffusion, alors l'alcoolémie t est proportionnelle à a et inversement proportionnelle à p et à k.
+- Si a est la masse d'alcool absorbé, p "le poids" (en fait, la masse) de la personne qui l'a absorbé et k les coefficient de diffusion, alors l'alcoolémie t est proportionnelle à a et inversement proportionnelle à p et à k.
 
 - Le taux d’alcool limite autorisé pour la conduite est de
   - 0,5 g d’alcool par litre de sang soit 0,25 mg d’alcool par litre d’air expiré.
